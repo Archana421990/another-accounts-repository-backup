@@ -10,8 +10,8 @@
  [march-batch](https://arcarch4.github.io/march-batch/) |
  [shop](https://arcarch4.github.io/SHop/) |
  tutorial from third user [fullstack-hy2020.github.io](https://arcarch4.github.io/fullstack-hy2020.github.io/) |
- [about me](https://github.com/Arcarch4/JOB1)
- 
+ [about me old](https://github.com/Arcarch4/JOB1) |
+  [about me new](https://arcarch4.github.io/Arcarch4/)
  
  
  
